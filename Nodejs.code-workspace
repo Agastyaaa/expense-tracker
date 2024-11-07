@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "../Nodejs"
+		},
+		{
+			"path": "../../Downloads/3.3 Postman"
+		},
+		{
+			"path": "../../Downloads/3.4 Middleware"
+		},
+		{
+			"path": "../../Downloads/3.5 Secrets Project"
+		},
+		{
+			"path": "../../Downloads/4.1 EJS Tags"
+		},
+		{
+			"path": "../../Downloads/4.2+passingdata"
+		},
+		{
+			"path": "../../Downloads/4.4 Band Generator Project"
+		},
+		{
+			"path": "../../Downloads/4.3 EJS Partials"
+		},
+		{
+			"path": "../../Downloads/5.2 JSON"
+		},
+		{
+			"path": "../../Downloads/5.3 Axios"
+		}
+	],
+	"settings": {}
+}
